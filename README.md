@@ -245,7 +245,7 @@ $("form").on("submit", function(event){
 > **Reminder**: You do not need jQuery to submit a form.
 
 
-## Sexy Forms
+## Eloquent Forms
 #### The `<label>` Element
 We encourage you to always use the optional `<label>` tag with each of your form inputs.
 
